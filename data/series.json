@@ -1,0 +1,6192 @@
+[
+  {
+    "title": {
+      "it": "Man Vs Bee",
+      "en": "Man Vs Bee"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/man_vs_bee.webp",
+    "director": "N/D",
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Mr Bean"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      { "season": 1, "watched_episodes": 9,  "total_episodes": 9 }
+    ]
+  },
+  {
+    "title": { "it": "Breaking Bad", "en": "Breaking Bad" },
+    "year": 2008,
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/breaking_bad.webp",
+    "director": "Vince Gilligan",
+    "genres": ["Drama", "Crime"],
+    "cast": ["Bryan Cranston", "Aaron Paul"],
+    "comment": { "it": "", "en": "" },
+    "progress": [
+      { "season": 1, "watched_episodes": 7, "total_episodes": 7 },
+      { "season": 2, "watched_episodes": 13, "total_episodes": 13 },
+      { "season": 3, "watched_episodes": 13, "total_episodes": 13 },
+      { "season": 4, "watched_episodes": 13, "total_episodes": 13 },
+      { "season": 5, "watched_episodes": 16, "total_episodes": 16 }
+    ]
+  },
+  {
+    "title": { "it": "Infinity Train", "en": "Infinity Train" },
+    "year": 2008,
+    "status": "stopped",
+    "rating": 4,
+    "local_poster": "img/infinity_train.webp",
+    "director": "",
+    "genres": [""],
+    "cast": ["", ""],
+    "comment": { "it": "", "en": "" },
+    "progress": [
+      { "season": 1, "watched_episodes": 10, "total_episodes": 10 },
+      { "season": 2, "watched_episodes": 3, "total_episodes": 10 },
+      { "season": 3, "watched_episodes": 0, "total_episodes": 10 },
+      { "season": 3, "watched_episodes": 0, "total_episodes": 10 }
+    ]
+  },
+  {
+    "title": {
+      "it": "La Casa di Carta",
+      "en": "Money Heist"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 3,
+    "local_poster": "img/money_heist.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 15,
+        "total_episodes": 15
+      },
+      {
+        "season": 2,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Land Before Time",
+      "en": "The Land Before Time"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/the_land_before_time.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Adventure Time",
+      "en": "Adventure Time"
+    },
+    "year": "2010-2018",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/adventure_time.webp",
+    "director": "Pendleton Ward",
+    "genres": [
+      "Animation", "Action", "Fantasy", "Comedy"
+    ],
+    "cast": [
+      "Finn (Jeremy Shada)",
+      "Jake (John DiMaggio)",
+      "Princess Bubblegum (Hyden Walch)",
+      "BMO (Niki Yang)",
+      "Marcelline (Olivia Olson)",
+      "Ice King (Tom Kenny)"
+    ],
+    "comment": {
+      "it": "",
+      "en": "Crazy Lore!"
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 4,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 5,
+        "watched_episodes": 52,
+        "total_episodes": 52
+      },
+      {
+        "season": 6,
+        "watched_episodes": 43,
+        "total_episodes": 43
+      },
+      {
+        "season": 7,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 8,
+        "watched_episodes": 27,
+        "total_episodes": 27
+      },
+      {
+        "season": 9,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 10,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Kim Possible",
+      "en": "Kim Possible"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/kim_possible.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 21,
+        "total_episodes": 21
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 33
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 23
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Scooby-Doo, Where Are You!",
+      "en": "Scooby-Doo, Where Are You!"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 3,
+    "local_poster": "img/scooby-doo,_where_are_you!.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 17,
+        "total_episodes": 17
+      },
+      {
+        "season": 2,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 3,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "I Simpsons",
+      "en": "The Simpsons"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/the_simpsons.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 24
+      },
+      {
+        "season": 4,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 5,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 25
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 25
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 25
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 25
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 23
+      },
+      {
+        "season": 11,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      },
+      {
+        "season": 13,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 14,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 15,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 16,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      },
+      {
+        "season": 17,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 18,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 19,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 20,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      },
+      {
+        "season": 21,
+        "watched_episodes": 0,
+        "total_episodes": 23
+      },
+      {
+        "season": 22,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 23,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 24,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 25,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 26,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 27,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 28,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 29,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      },
+      {
+        "season": 30,
+        "watched_episodes": 0,
+        "total_episodes": 23
+      },
+      {
+        "season": 31,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 32,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 33,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 34,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 35,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 36,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 37,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "lol:-)",
+      "en": "lol:-)"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/lol:-).webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 2,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 3,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 4,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 5,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 6,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 7,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 8,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 9,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 10,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 11,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      }
+    ]
+  },
+{
+    "title": {
+      "it": "The Penguins of Madagascar",
+      "en": "The Penguins of Madagascar"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/the_penguins_of_madagascar.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 48,
+        "total_episodes": 48
+      },
+      {
+        "season": 2,
+        "watched_episodes": 68,
+        "total_episodes": 68
+      },
+      {
+        "season": 3,
+        "watched_episodes": 33,
+        "total_episodes": 33
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Incastrati",
+      "en": "Framed! A Sicilian Murder Mystery"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/framed!_a_sicilian_murder_mystery.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "Ficarra", "Picone"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 2,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Zootopia+",
+      "en": "Zootopia+"
+    },
+    "year": "2026",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/zootopia+.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Simsala Grimm",
+      "en": "Simsala Grimm"
+    },
+    "year": "1999-2010",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/simsala_grimm.webp",
+    "director": "fratelli Grim",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Winnie the Pooh",
+      "en": "The New Adventures of Winnie the Pooh"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/the_new_adventures_of_winnie_the_pooh.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 35
+      },
+      {
+        "season": 2,
+        "watched_episodes": 18,
+        "total_episodes": 18
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 11
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Martin Mystery",
+      "en": "Martin Mystery"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/martin_mystery.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Fullmetal Alchemist: Brotherhood",
+      "en": "Fullmetal Alchemist: Brotherhood"
+    },
+    "year": "2025",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/fullmetal_alchemist:_brotherhood.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 64
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Baymax!",
+      "en": "Baymax!"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 3,
+    "local_poster": "img/baymax.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Una Pezza di Lundini",
+      "en": "A Patch by Lundini"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/pezza_lundini.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 41,
+        "total_episodes": 41
+      },
+      {
+        "season": 2,
+        "watched_episodes": 15,
+        "total_episodes": 15
+      },
+      {
+        "season": 3,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Victorious",
+      "en": "Victorious"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/victorious.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 19,
+        "total_episodes": 19
+      },
+      {
+        "season": 2,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 4,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Mr. Bean",
+      "en": "Mr. Bean: The Animated Series"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/mr_bean_animated.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 18,
+        "total_episodes": 18
+      },
+      {
+        "season": 2,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      },
+      {
+        "season": 3,
+        "watched_episodes": 18,
+        "total_episodes": 18
+      },
+      {
+        "season": 4,
+        "watched_episodes": 52,
+        "total_episodes": 52
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 39
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Scooby-Doo! Mystery Incorporated",
+      "en": "Scooby-Doo! Mystery Incorporated"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/scooby-doo!_mystery_incorporated.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "iCarly",
+      "en": "iCarly"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/icarly.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 25,
+        "total_episodes": 25
+      },
+      {
+        "season": 2,
+        "watched_episodes": 25,
+        "total_episodes": 25
+      },
+      {
+        "season": 3,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 4,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 5,
+        "watched_episodes": 11,
+        "total_episodes": 11
+      },
+      {
+        "season": 6,
+        "watched_episodes": 15,
+        "total_episodes": 15
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Key & Peele",
+      "en": "Key & Peele"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/key_&_peele.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 2,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 3,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 4,
+        "watched_episodes": 11,
+        "total_episodes": 11
+      },
+      {
+        "season": 5,
+        "watched_episodes": 11,
+        "total_episodes": 11
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Death Note",
+      "en": "Death Note"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/death_note.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 37,
+        "total_episodes": 37
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Amazing World of Gumball",
+      "en": "The Amazing World of Gumball"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/the_amazing_world_of_gumball.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 36,
+        "total_episodes": 36
+      },
+      {
+        "season": 2,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 3,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 4,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 5,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 44
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 40
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Pink Panther and Pals",
+      "en": "Pink Panther and Pals"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/pink_panther_and_pals.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 78,
+        "total_episodes": 78
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Marvel's Daredevil",
+      "en": "Marvel's Daredevil"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/daredevil.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Cowboy Bebop",
+      "en": "Cowboy Bebop"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/cowboy_bebop.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "LazyTown",
+      "en": "LazyTown"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/lazytown.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 34,
+        "total_episodes": 34
+      },
+      {
+        "season": 2,
+        "watched_episodes": 18,
+        "total_episodes": 18
+      },
+      {
+        "season": 3,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 4,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Midnight Gospel",
+      "en": "The Midnight Gospel"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/midnight_gospel.webp",
+    "director": "Pendleton Ward",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Pingu",
+      "en": "Pingu"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/pingu.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 4,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 5,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 6,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Geronimo Stilton",
+      "en": "Geronimo Stilton"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/geronimo_stilton.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Marvel's The Defenders",
+      "en": "Marvel's The Defenders"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/the_defenders.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Dragon Ball Z kai",
+      "en": "Dragon Ball Kai"
+    },
+    "year": "2026",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/dragon_ball_kai.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 98
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 61
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Daredevil: Born Again",
+      "en": "Daredevil: Born Again"
+    },
+    "year": "2025",
+    "status": "ongoing",
+    "rating": 0,
+    "local_poster": "img/daredevil_born_again.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 9,
+        "total_episodes": 9
+      },
+      {
+        "season": 2,
+        "watched_episodes": 1,
+        "total_episodes": 8
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Black Mirror",
+      "en": "Black Mirror"
+    },
+    "year": "2025",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/black_mirror.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 3
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 4
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 3
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Metal Family",
+      "en": "Metal Family"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/metal_family.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 8,
+        "total_episodes": 10
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Dragon Ball GT",
+      "en": "Dragon Ball GT"
+    },
+    "year": "2026",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/dragon_ball_gt.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 16
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 24
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 24
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Flash",
+      "en": "The Flash"
+    },
+    "year": "2014",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/the_flash.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 2,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 3,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 4,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 22
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 19
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Ranking of Kings",
+      "en": "Ranking of Kings"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 3,
+    "local_poster": "img/ranking_kings.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "La Pimpa",
+      "en": "The Adventures of Pimpa"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/the_adventures_of_pimpa.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Inside Job",
+      "en": "Inside Job"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/inside_job.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 18,
+        "total_episodes": 18
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Art Attack",
+      "en": "Art Attack"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/art_attack.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 2,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 3,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 4,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 5,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 12
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 11,
+        "watched_episodes": 0,
+        "total_episodes": 16
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 30
+      },
+      {
+        "season": 13,
+        "watched_episodes": 0,
+        "total_episodes": 30
+      },
+      {
+        "season": 14,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 15,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      },
+      {
+        "season": 16,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      },
+      {
+        "season": 17,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 18,
+        "watched_episodes": 0,
+        "total_episodes": 16
+      },
+      {
+        "season": 19,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 20,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Il Piccolo Principe",
+      "en": "The Little Prince"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/the_little_prince.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Adventure Time: Fionna and Cake",
+      "en": "Adventure Time: Fionna and Cake"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/fionna_and_cake.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 2,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Dora L'Esploratrice",
+      "en": "Dora the Explorer"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/dora_the_explorer.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 22
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 16
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 17
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Moon Knight",
+      "en": "Moon Knight"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/moon_knight.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Sono Lillo",
+      "en": "Sono Lillo"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/sono_lillo.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 2,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Sonic X",
+      "en": "Sonic X"
+    },
+    "year": "2026",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/sonic_x.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 1,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Ben 10",
+      "en": "Ben 10"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/ben_10.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 4,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Marvel's Iron Fist",
+      "en": "Marvel's Iron Fist"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/iron_fist.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Boris",
+      "en": "Boris"
+    },
+    "year": "2025",
+    "status": "ongoing",
+    "rating": 5,
+    "local_poster": "img/boris.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 2,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 3,
+        "watched_episodes": 15,
+        "total_episodes": 15
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Leone il Cane Fifone",
+      "en": "Courage the Cowardly Dog"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/courage_the_cowardly_dog.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 25,
+        "total_episodes": 25
+      },
+      {
+        "season": 3,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 4,
+        "watched_episodes": 25,
+        "total_episodes": 25
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Spider-Noir",
+      "en": "Spider-Noir"
+    },
+    "year": "2026",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/spider-noir.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Die Hart",
+      "en": "Die Hart"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 4,
+    "local_poster": "img/die_hart.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 2,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Squadra Speciale Cobra 11",
+      "en": "Alarm for Cobra 11"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/cobra_11.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 9,
+        "total_episodes": 9
+      },
+      {
+        "season": 2,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 3,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 4,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 5,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 6,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 7,
+        "watched_episodes": 11,
+        "total_episodes": 11
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 11,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 13,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 14,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 15,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 16,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 17,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      },
+      {
+        "season": 18,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 19,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 20,
+        "watched_episodes": 0,
+        "total_episodes": 12
+      },
+      {
+        "season": 21,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      },
+      {
+        "season": 22,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 23,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 24,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 25,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 26,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 27,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 28,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 29,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 30,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 31,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 32,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 33,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 34,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 35,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 36,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 37,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      },
+      {
+        "season": 38,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 39,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 40,
+        "watched_episodes": 0,
+        "total_episodes": 12
+      },
+      {
+        "season": 41,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 42,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 43,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 44,
+        "watched_episodes": 0,
+        "total_episodes": 11
+      },
+      {
+        "season": 45,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 46,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 47,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 48,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      },
+      {
+        "season": 49,
+        "watched_episodes": 0,
+        "total_episodes": 3
+      },
+      {
+        "season": 50,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Inazuma Eleven",
+      "en": "Inazuma Eleven"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/inazuma_eleven.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 127,
+        "total_episodes": 127
+      },
+      {
+        "season": 2,
+        "watched_episodes": 47,
+        "total_episodes": 47
+      },
+      {
+        "season": 3,
+        "watched_episodes": 51,
+        "total_episodes": 51
+      },
+      {
+        "season": 4,
+        "watched_episodes": 43,
+        "total_episodes": 43
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "SpongeBob SquarePants",
+      "en": "SpongeBob SquarePants"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/spongebob_squarepants.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 41,
+        "total_episodes": 41
+      },
+      {
+        "season": 2,
+        "watched_episodes": 36,
+        "total_episodes": 36
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 36
+      },
+      {
+        "season": 4,
+        "watched_episodes": 33,
+        "total_episodes": 33
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 39
+      },
+      {
+        "season": 6,
+        "watched_episodes": 34,
+        "total_episodes": 34
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 35
+      },
+      {
+        "season": 8,
+        "watched_episodes": 25,
+        "total_episodes": 25
+      },
+      {
+        "season": 9,
+        "watched_episodes": 42,
+        "total_episodes": 42
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 71
+      },
+      {
+        "season": 11,
+        "watched_episodes": 55,
+        "total_episodes": 55
+      },
+      {
+        "season": 12,
+        "watched_episodes": 34,
+        "total_episodes": 35
+      },
+      {
+        "season": 13,
+        "watched_episodes": 64,
+        "total_episodes": 64
+      },
+      {
+        "season": 14,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 15,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 16,
+        "watched_episodes": 0,
+        "total_episodes": 22
+      },
+      {
+        "season": 17,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Takeshi's Castle",
+      "en": "Takeshi's Castle"
+    },
+    "year": "2002",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/takeshi_castle.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 2,
+        "watched_episodes": 30,
+        "total_episodes": 30
+      },
+      {
+        "season": 3,
+        "watched_episodes": 30,
+        "total_episodes": 30
+      },
+      {
+        "season": 4,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Sandokan",
+      "en": "Sandokan"
+    },
+    "year": "1998",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/sandokan.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Numerotti",
+      "en": "Numberjacks"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/numberjacks.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 15,
+        "total_episodes": 45
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Lupin",
+      "en": "Lupin"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/lupin.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 2,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Power Rangers Dino Force",
+      "en": "Power Rangers Dino Force Brave"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/power_rangers_dino_force.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Adventure Time: Distant Lands",
+      "en": "Adventure Time: Distant Lands"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/adventure_time_distant_lands.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 4,
+        "total_episodes": 4
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Cobra Kai",
+      "en": "Cobra Kai"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/cobra_kai.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 2,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Minuscule",
+      "en": "Minuscule"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/minuscule.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 78,
+        "total_episodes": 78
+      },
+      {
+        "season": 2,
+        "watched_episodes": 98,
+        "total_episodes": 98
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Fairly OddParents",
+      "en": "The Fairly OddParents"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/the_fairly_oddparents.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 12,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 29,
+        "total_episodes": 29
+      },
+      {
+        "season": 3,
+        "watched_episodes": 29,
+        "total_episodes": 29
+      },
+      {
+        "season": 4,
+        "watched_episodes": 21,
+        "total_episodes": 21
+      },
+      {
+        "season": 5,
+        "watched_episodes": 34,
+        "total_episodes": 34
+      },
+      {
+        "season": 6,
+        "watched_episodes": 18,
+        "total_episodes": 19
+      },
+      {
+        "season": 7,
+        "watched_episodes": 27,
+        "total_episodes": 27
+      },
+      {
+        "season": 8,
+        "watched_episodes": 18,
+        "total_episodes": 18
+      },
+      {
+        "season": 9,
+        "watched_episodes": 43,
+        "total_episodes": 43
+      },
+      {
+        "season": 10,
+        "watched_episodes": 37,
+        "total_episodes": 37
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Pokémon",
+      "en": "Pokémon"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/pokémon.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 82,
+        "total_episodes": 82
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 36
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 41
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 52
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 65
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 40
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 52
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 52
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 47
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 51
+      },
+      {
+        "season": 11,
+        "watched_episodes": 0,
+        "total_episodes": 52
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 52
+      },
+      {
+        "season": 13,
+        "watched_episodes": 0,
+        "total_episodes": 34
+      },
+      {
+        "season": 14,
+        "watched_episodes": 0,
+        "total_episodes": 84
+      },
+      {
+        "season": 15,
+        "watched_episodes": 0,
+        "total_episodes": 58
+      },
+      {
+        "season": 16,
+        "watched_episodes": 0,
+        "total_episodes": 93
+      },
+      {
+        "season": 17,
+        "watched_episodes": 0,
+        "total_episodes": 47
+      },
+      {
+        "season": 18,
+        "watched_episodes": 0,
+        "total_episodes": 146
+      },
+      {
+        "season": 19,
+        "watched_episodes": 0,
+        "total_episodes": 137
+      },
+      {
+        "season": 20,
+        "watched_episodes": 0,
+        "total_episodes": 144
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Police Squad!",
+      "en": "Police Squad!"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/police_squad!.webp",
+    "director": "N/D",
+    "genres": [
+      "Comedy"
+    ],
+    "cast": [
+      "Leslie Nilson"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Made in Abyss",
+      "en": "Made in Abyss"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/made_in_abyss.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 14
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 12
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Death Parade",
+      "en": "Death Parade"
+    },
+    "year": "2026",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/death_parade.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 12
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Teletubbies",
+      "en": "Teletubbies"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/teletubbies.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 2,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 3,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 4,
+        "watched_episodes": 30,
+        "total_episodes": 30
+      },
+      {
+        "season": 5,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 40
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 40
+      },
+      {
+        "season": 11,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 13,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      },
+      {
+        "season": 14,
+        "watched_episodes": 0,
+        "total_episodes": 30
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Our Planet",
+      "en": "Our Planet"
+    },
+    "year": "2019",
+    "status": "stopped",
+    "rating": 3,
+    "local_poster": "img/our_planet.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 4
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Office",
+      "en": "The Office (US)"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 5,
+    "local_poster": "img/the_office.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 2,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 3,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 4,
+        "watched_episodes": 19,
+        "total_episodes": 19
+      },
+      {
+        "season": 5,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 6,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 7,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 24
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 23
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Garfield Show",
+      "en": "The Garfield Show"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/the_garfield_show.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 52,
+        "total_episodes": 52
+      },
+      {
+        "season": 2,
+        "watched_episodes": 52,
+        "total_episodes": 52
+      },
+      {
+        "season": 3,
+        "watched_episodes": 52,
+        "total_episodes": 52
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 54
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 4
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Grand Tour",
+      "en": "The Grand Tour"
+    },
+    "year": "2016-2024",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/the_grand_tour.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 11,
+        "total_episodes": 11
+      },
+      {
+        "season": 3,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      },
+      {
+        "season": 4,
+        "watched_episodes": 4,
+        "total_episodes": 4
+      },
+      {
+        "season": 5,
+        "watched_episodes": 3,
+        "total_episodes": 3
+      },
+      {
+        "season": 6,
+        "watched_episodes": 1,
+        "total_episodes": 1
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Sam & Cat",
+      "en": "Sam & Cat"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/sam_&_cat.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 36,
+        "total_episodes": 36
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Power Rangers: Mystic Force",
+      "en": "Power Rangers: Mystic Force"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/power_rangers_mystic_force.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 32,
+        "total_episodes": 32
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "I Griffin",
+      "en": "Family Guy"
+    },
+    "year": "2026",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/family_guy.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 22
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 31
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 6,
+        "watched_episodes": 1,
+        "total_episodes": 12
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 16
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 23
+      },
+      {
+        "season": 11,
+        "watched_episodes": 0,
+        "total_episodes": 22
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      },
+      {
+        "season": 13,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 14,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 15,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 16,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 17,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 18,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 19,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 20,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 21,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 22,
+        "watched_episodes": 0,
+        "total_episodes": 17
+      },
+      {
+        "season": 23,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 24,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Youtube Money",
+      "en": "Youtube Money"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 3,
+    "local_poster": "img/youtube_money.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 9,
+        "total_episodes": 9
+      },
+      {
+        "season": 2,
+        "watched_episodes": 5,
+        "total_episodes": 5
+      },
+      {
+        "season": 3,
+        "watched_episodes": 5,
+        "total_episodes": 5
+      },
+      {
+        "season": 4,
+        "watched_episodes": 1,
+        "total_episodes": 1
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "SPY x FAMILY",
+      "en": "SPY x FAMILY"
+    },
+    "year": "2022-Present",
+    "status": "ongoing",
+    "rating": 5,
+    "local_poster": "img/spy_x_family.webp",
+    "director": "Tatsuya Endo",
+    "genres": [
+      "Action", "Comedy", "Anime"
+    ],
+    "cast": [
+      "Anya Forger", 
+      "Loid Forger",
+      "Yor Forger"
+    ],
+    "comment": {
+      "it": "Clamoroso!",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 25,
+        "total_episodes": 25
+      },
+      {
+        "season": 2,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 3,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "No Mercy",
+      "en": "No Mercy"
+    },
+    "year": "2025",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/no_mercy.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "JoJo's Bizarre Adventure",
+      "en": "JoJo's Bizarre Adventure"
+    },
+    "year": "2012-Present",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/jojo_bizarre_adventure.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 9,
+        "total_episodes": 9
+      },
+      {
+        "season": 2,
+        "watched_episodes": 17,
+        "total_episodes": 17
+      },
+      {
+        "season": 3,
+        "watched_episodes": 48,
+        "total_episodes": 48
+      },
+      {
+        "season": 4,
+        "watched_episodes": 39,
+        "total_episodes": 39
+      },
+      {
+        "season": 5,
+        "watched_episodes": 39,
+        "total_episodes": 39
+      },
+      {
+        "season": 6,
+        "watched_episodes": 38,
+        "total_episodes": 38
+      },
+      {
+        "season": 7,
+        "watched_episodes": 1,
+        "total_episodes": 1
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Top Gear",
+      "en": "Top Gear"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/top_gear.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 2,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 3,
+        "watched_episodes": 9,
+        "total_episodes": 9
+      },
+      {
+        "season": 4,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 5,
+        "watched_episodes": 9,
+        "total_episodes": 9
+      },
+      {
+        "season": 6,
+        "watched_episodes": 11,
+        "total_episodes": 11
+      },
+      {
+        "season": 7,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 8,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 9,
+        "watched_episodes": 6,
+        "total_episodes": 7
+      },
+      {
+        "season": 10,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 11,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 12,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      },
+      {
+        "season": 13,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 14,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 15,
+        "watched_episodes": 6,
+        "total_episodes": 8
+      },
+      {
+        "season": 16,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 17,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 18,
+        "watched_episodes": 7,
+        "total_episodes": 8
+      },
+      {
+        "season": 19,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 20,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 21,
+        "watched_episodes": 7,
+        "total_episodes": 7
+      },
+      {
+        "season": 22,
+        "watched_episodes": 8,
+        "total_episodes": 10
+      },
+      {
+        "season": 23,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 24,
+        "watched_episodes": 0,
+        "total_episodes": 7
+      },
+      {
+        "season": 25,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 26,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 27,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 28,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 29,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 30,
+        "watched_episodes": 0,
+        "total_episodes": 4
+      },
+      {
+        "season": 31,
+        "watched_episodes": 0,
+        "total_episodes": 6
+      },
+      {
+        "season": 32,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      },
+      {
+        "season": 33,
+        "watched_episodes": 0,
+        "total_episodes": 5
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Totally Spies!",
+      "en": "Totally Spies!"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/totally_spies!.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "ODDTAXI",
+      "en": "ODDTAXI"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/oddtaxi.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 14,
+        "total_episodes": 14
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Once Upon a Time... Life",
+      "en": "Once Upon a Time... Life"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/once_upon_a_time..._life.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Marvel's Jessica Jones",
+      "en": "Marvel's Jessica Jones"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/jessica_jones.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Arturo & Kiwi",
+      "en": "Arturo & Kiwi"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/arturo_&_kiwi.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 1,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 4,
+        "watched_episodes": 2,
+        "total_episodes": 13
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Amazing Digital Circus",
+      "en": "The Amazing Digital Circus"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/the_amazing_digital_circus.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 9,
+        "total_episodes": 9
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Barbapapa",
+      "en": "Barbapapa"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/barbapapa.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 45,
+        "total_episodes": 45
+      },
+      {
+        "season": 2,
+        "watched_episodes": 55,
+        "total_episodes": 55
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Over the Garden Wall",
+      "en": "Over the Garden Wall"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/over_the_garden_wall.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Pesci Piccoli",
+      "en": "Small Fish"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/small_fish.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "jakals"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      },
+      {
+        "season": 2,
+        "watched_episodes": 8,
+        "total_episodes": 8
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Tom and Jerry Tales",
+      "en": "Tom and Jerry Tales"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/tom_and_jerry_tales.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 39,
+        "total_episodes": 39
+      },
+      {
+        "season": 2,
+        "watched_episodes": 39,
+        "total_episodes": 39
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "INVINCIBLE",
+      "en": "INVINCIBLE"
+    },
+    "year": "2021-Present",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/invincible.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 9
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 8
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "I Celestini",
+      "en": "Street Football"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/street_football.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Don Matteo",
+      "en": "Don Matteo"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 4,
+    "local_poster": "img/don_matteo.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      },
+      {
+        "season": 2,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      },
+      {
+        "season": 3,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      },
+      {
+        "season": 4,
+        "watched_episodes": 24,
+        "total_episodes": 24
+      },
+      {
+        "season": 5,
+        "watched_episodes": 24,
+        "total_episodes": 24
+      },
+      {
+        "season": 6,
+        "watched_episodes": 24,
+        "total_episodes": 24
+      },
+      {
+        "season": 7,
+        "watched_episodes": 24,
+        "total_episodes": 24
+      },
+      {
+        "season": 8,
+        "watched_episodes": 24,
+        "total_episodes": 24
+      },
+      {
+        "season": 9,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 10,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 11,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 12,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 13,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      },
+      {
+        "season": 14,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 15,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      },
+      {
+        "season": 16,
+        "watched_episodes": 0,
+        "total_episodes": 1
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Non ci resta che il crimine",
+      "en": "Non ci resta che il crimine"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/non_ci_resta_che_il_crimine.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 6,
+        "total_episodes": 6
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Bear in the Big Blue House",
+      "en": "Bear in the Big Blue House"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/bear_in_the_big_blue_house.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 39
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Scan2Go",
+      "en": "Scan2Go"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/scan2go.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 45,
+        "total_episodes": 52
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "He-Man and the Masters of the Universe",
+      "en": "He-Man and the Masters of the Universe"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/he-man_and_the_masters_of_the_universe.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 65,
+        "total_episodes": 65
+      },
+      {
+        "season": 2,
+        "watched_episodes": 65,
+        "total_episodes": 65
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Dragon Ball",
+      "en": "Dragon Ball"
+    },
+    "year": "2026",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/dragon_ball.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 15
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 40
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 33
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 31
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 21
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Cucciolotti",
+      "en": "Pet Pals"
+    },
+    "year": "2003-2012",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/pet_pals.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 51,
+        "total_episodes": 51
+      },
+      {
+        "season": 4,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 5,
+        "watched_episodes": 52,
+        "total_episodes": 52
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "SAKAMOTO DAYS",
+      "en": "SAKAMOTO DAYS"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/sakamoto_days.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 0
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Impractical Jokers",
+      "en": "Impractical Jokers"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 4,
+    "local_poster": "img/impractical_jokers.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      },
+      {
+        "season": 2,
+        "watched_episodes": 28,
+        "total_episodes": 28
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 31
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 9,
+        "watched_episodes": 0,
+        "total_episodes": 26
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 19
+      },
+      {
+        "season": 11,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 18
+      },
+      {
+        "season": 13,
+        "watched_episodes": 0,
+        "total_episodes": 0
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "BoJack Horseman",
+      "en": "BoJack Horseman"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/bojack_horseman.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 2,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 3,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 4,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 5,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 6,
+        "watched_episodes": 16,
+        "total_episodes": 16
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Phineas and Ferb",
+      "en": "Phineas and Ferb"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/phineas_and_ferb.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 47,
+        "total_episodes": 47
+      },
+      {
+        "season": 2,
+        "watched_episodes": 66,
+        "total_episodes": 66
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 63
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 49
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 39
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "What's New Scooby-Doo?",
+      "en": "What's New Scooby-Doo?"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 3,
+    "local_poster": "img/new_scooby-doo?.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "I Daltons",
+      "en": "The Daltons"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/the_daltons.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 78,
+        "total_episodes": 78
+      },
+      {
+        "season": 2,
+        "watched_episodes": 113,
+        "total_episodes": 113
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Beatles: Get Back",
+      "en": "The Beatles: Get Back"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 3,
+    "local_poster": "img/the_beatles:_get_back.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 3,
+        "total_episodes": 3
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Monster Allergy",
+      "en": "Monster Allergy"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/monster_allergy.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Mob Psycho 100",
+      "en": "Mob Psycho 100"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/mob_psycho_100.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 2,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 3,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "One-Punch Man",
+      "en": "One-Punch Man"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 4,
+    "local_poster": "img/one-punch_man.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 2,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      },
+      {
+        "season": 3,
+        "watched_episodes": 10,
+        "total_episodes": 12
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Arrow",
+      "en": "Arrow"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/arrow.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 2,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 3,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 4,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 5,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 6,
+        "watched_episodes": 23,
+        "total_episodes": 23
+      },
+      {
+        "season": 7,
+        "watched_episodes": 22,
+        "total_episodes": 22
+      },
+      {
+        "season": 8,
+        "watched_episodes": 10,
+        "total_episodes": 10
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Kung Fu Panda: Legends of Awesomeness",
+      "en": "Kung Fu Panda: Legends of Awesomeness"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/kung_fu_panda:_legends_of_awesomeness.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 3,
+        "watched_episodes": 28,
+        "total_episodes": 28
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Mickey Mouse Clubhouse",
+      "en": "Mickey Mouse Clubhouse"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/mickey_mouse_clubhouse.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 40,
+        "total_episodes": 40
+      },
+      {
+        "season": 3,
+        "watched_episodes": 35,
+        "total_episodes": 35
+      },
+      {
+        "season": 4,
+        "watched_episodes": 32,
+        "total_episodes": 32
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Pink Panther Show",
+      "en": "The Pink Panther Show"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/the_pink_panther_show.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 21,
+        "total_episodes": 21
+      },
+      {
+        "season": 2,
+        "watched_episodes": 15,
+        "total_episodes": 15
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Heidi",
+      "en": "Heidi"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/heidi.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 52,
+        "total_episodes": 52
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Inspector Montalbano",
+      "en": "Inspector Montalbano"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 4,
+    "local_poster": "img/inspector_montalbano.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 2,
+        "total_episodes": 2
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 4
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 7,
+        "watched_episodes": 0,
+        "total_episodes": 4
+      },
+      {
+        "season": 8,
+        "watched_episodes": 0,
+        "total_episodes": 4
+      },
+      {
+        "season": 9,
+        "watched_episodes": 1,
+        "total_episodes": 4
+      },
+      {
+        "season": 10,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 11,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 12,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 13,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 14,
+        "watched_episodes": 0,
+        "total_episodes": 2
+      },
+      {
+        "season": 15,
+        "watched_episodes": 0,
+        "total_episodes": 1
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Doraemon",
+      "en": "Doraemon: Gadget Cat from the Future"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/doraemon.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 14,
+        "total_episodes": 49
+      },
+      {
+        "season": 2,
+        "watched_episodes": 46,
+        "total_episodes": 46
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Chainsaw Man",
+      "en": "Chainsaw Man"
+    },
+    "year": "2026",
+    "status": "watched",
+    "rating": 4,
+    "local_poster": "img/chainsaw_man.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 12,
+        "total_episodes": 12
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Yu-Gi-Oh! Zexal",
+      "en": "Yu-Gi-Oh! Zexal"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 0,
+    "local_poster": "img/yu-gi-oh!_zexal.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 25,
+        "total_episodes": 25
+      },
+      {
+        "season": 2,
+        "watched_episodes": 24,
+        "total_episodes": 24
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 24
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 25
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 25
+      },
+      {
+        "season": 6,
+        "watched_episodes": 0,
+        "total_episodes": 23
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Dexter's Laboratory",
+      "en": "Dexter's Laboratory"
+    },
+    "year": "2025",
+    "status": "stopped",
+    "rating": 4,
+    "local_poster": "img/dexter's_laboratory.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 38,
+        "total_episodes": 38
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 108
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 36
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 38
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Disenchantment",
+      "en": "Disenchantment"
+    },
+    "year": "2025",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/disenchantment.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 20
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 10
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Steven Universe",
+      "en": "Steven Universe"
+    },
+    "year": "2025",
+    "status": "watchlist",
+    "rating": 0,
+    "local_poster": "img/steven_universe.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 0,
+        "total_episodes": 49
+      },
+      {
+        "season": 2,
+        "watched_episodes": 0,
+        "total_episodes": 29
+      },
+      {
+        "season": 3,
+        "watched_episodes": 0,
+        "total_episodes": 24
+      },
+      {
+        "season": 4,
+        "watched_episodes": 0,
+        "total_episodes": 24
+      },
+      {
+        "season": 5,
+        "watched_episodes": 0,
+        "total_episodes": 28
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Gravity Falls",
+      "en": "Gravity Falls"
+    },
+    "year": "2012-2016",
+    "status": "watched",
+    "rating": 5,
+    "local_poster": "img/gravity_falls.webp",
+    "director": "Alex Hirsch",
+    "genres": [
+      "Comedy", "Fantasy", "Animation", "Adventure"
+    ],
+    "cast": [
+      "Dipper Pines (Jason Ritter)",
+      "Mabel Pines (Kristen Schaal)",
+      "Grunkle Stan (Alex Hirsch)",
+      "Wendy (Linda Cardellini)",
+      "Soos Ramirez (Alex Hirsch)",
+      "Ford Pines (J.K. Simmons)",
+      "Bill Cipher (Alex Hirsch)",
+      "Gideon Gleeful (Thurop Van Orman)"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      },
+      {
+        "season": 2,
+        "watched_episodes": 20,
+        "total_episodes": 20
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "The Looney Tunes Show",
+      "en": "The Looney Tunes Show"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/the_looney_tunes_show.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Baby Looney Tunes",
+      "en": "Baby Looney Tunes"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/baby_looney_tunes.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 76,
+        "total_episodes": 76
+      },
+      {
+        "season": 2,
+        "watched_episodes": 26,
+        "total_episodes": 26
+      }
+    ]
+  },
+  {
+    "title": {
+      "it": "Marvel's Luke Cage",
+      "en": "Marvel's Luke Cage"
+    },
+    "year": "2025",
+    "status": "watched",
+    "rating": 0,
+    "local_poster": "img/luke_cage.webp",
+    "director": "N/D",
+    "genres": [
+      "N/D"
+    ],
+    "cast": [
+      "N/D"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
+    "progress": [
+      {
+        "season": 1,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      },
+      {
+        "season": 2,
+        "watched_episodes": 13,
+        "total_episodes": 13
+      }
+    ]
+  },
+  {
+    "title": { "it": "Avatar: The Last Airbender", "en": "Avatar: The Last Airbender" },
+    "year": "2005-2008",
+    "status": "ongoing",
+    "rating": 4,
+    "local_poster": "img/avatar_airbender.webp",
+    "director": "Boh",
+    "genres": ["Action"],
+    "cast": ["Aang", "Katara", "Sokka", "Kuzo"],
+    "comment": { "it": "top", "en": "funny" },
+    "progress": [
+      { "season": 1, "watched_episodes": 20, "total_episodes": 20 },
+      { "season": 2, "watched_episodes": 20, "total_episodes": 20 },
+      { "season": 3, "watched_episodes": 8, "total_episodes": 21 }
+    ]
+  }
+]

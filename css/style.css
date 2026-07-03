@@ -1,0 +1,186 @@
+:root[data-theme="dark"] {
+    --bg-color: #0f172a;
+    --card-bg: #1e293b;
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --border-color: #334155;
+    --accent: #38bdf8;
+    --seen-color: #22c55e;
+    --watchlist-color: #eab308;
+    --star-color: #f59e0b;
+}
+
+:root[data-theme="light"] {
+    --bg-color: #f8fafc;
+    --card-bg: #ffffff;
+    --text-main: #0f172a;
+    --text-muted: #64748b;
+    --border-color: #e2e8f0;
+    --accent: #0284c7;
+    --seen-color: #16a34a;
+    --watchlist-color: #ca8a04;
+    --star-color: #d97706;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    padding: 20px;
+    line-height: 1.5;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+header {
+    max-width: 1200px;
+    margin: 0 auto 30px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid var(--border-color);
+    padding-bottom: 20px;
+}
+
+.controls-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: flex-end;
+}
+
+.toggles { display: flex; gap: 10px; }
+.toggles button {
+    background-color: var(--card-bg);
+    color: var(--text-main);
+    border: 1px solid var(--border-color);
+    padding: 6px 12px; border-radius: 15px; cursor: pointer; font-size: 12px;
+}
+
+.filter-container { display: flex; gap: 8px; }
+.filter-btn {
+    background-color: var(--card-bg);
+    color: var(--text-main);
+    border: 1px solid var(--border-color);
+    padding: 8px 14px; border-radius: 20px; cursor: pointer; font-size: 13px;
+    transition: all 0.2s;
+}
+.filter-btn.active, .filter-btn:hover {
+    background-color: var(--accent); color: #fff; border-color: var(--accent); font-weight: 600;
+}
+
+.search-sort-container { display: flex; gap: 10px; width: 100%; }
+#search-input, #sort-select {
+    background-color: var(--card-bg); color: var(--text-main);
+    border: 1px solid var(--border-color); padding: 10px 16px; border-radius: 20px; font-size: 14px; outline: none;
+}
+#search-input { flex-grow: 1; }
+
+/* GALLERIA */
+.movies-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 25px; max-width: 1200px; margin: 0 auto;
+}
+
+.movie-card {
+    background-color: var(--card-bg); border-radius: 12px; overflow: hidden;
+    cursor: pointer; transition: transform 0.2s, box-shadow 0.2s; position: relative;
+    display: flex; flex-direction: column; border: 1px solid var(--border-color);
+}
+.movie-card:hover { transform: translateY(-5px); box-shadow: 0 10px 20px rgba(0,0,0,0.3); }
+
+.poster-wrapper {
+    position: relative; aspect-ratio: 2/3; background-color: #0f172a; display: flex; align-items: center; justify-content: center;
+}
+.poster-img { width: 100%; height: 100%; object-fit: cover; }
+
+.status-badge {
+    position: absolute; top: 10px; right: 10px; padding: 4px 8px; border-radius: 12px;
+    font-size: 11px; font-weight: bold; text-transform: uppercase; box-shadow: 0 2px 4px rgba(0,0,0,0.3); color: #fff;
+}
+.status-watched { background-color: var(--seen-color); }
+.status-watchlist { background-color: var(--watchlist-color); color: #000; }
+.status-ongoing { background-color: var(--accent); }
+.status-stopped { background-color: #ef4444; }
+
+.movie-info { padding: 12px; display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between; }
+.movie-title { font-size: 15px; font-weight: 600; margin-bottom: 4px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.movie-year { font-size: 13px; color: var(--text-muted); }
+.stars { color: var(--star-color); font-size: 13px; }
+
+/* MODALE STRUTTURATA PER PC */
+.modal {
+    display: none; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background-color: rgba(15, 23, 42, 0.85); z-index: 1000; justify-content: center; align-items: center; padding: 20px; backdrop-filter: blur(5px);
+}
+
+.modal-content {
+    background-color: var(--card-bg); max-width: 850px; width: 100%; max-height: 85vh;
+    overflow: hidden; border-radius: 16px; position: relative; border: 1px solid var(--border-color); box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.close-btn {
+    position: absolute; top: 15px; right: 20px; font-size: 32px; color: var(--text-muted); cursor: pointer; z-index: 1100; line-height: 1;
+}
+.close-btn:hover { color: var(--text-main); }
+
+.modal-body { display: flex; flex-direction: row; height: 100%; max-height: 85vh; }
+.modal-left { flex: 0 0 300px; min-width: 300px; height: 100%; }
+.modal-poster { width: 100%; height: 100%; object-fit: cover; display: block; background-color: #0f172a; }
+
+.modal-details { padding: 30px; flex-grow: 1; display: flex; flex-direction: column; gap: 15px; overflow-y: auto; max-height: 85vh; }
+.modal-title-row { display: flex; flex-direction: column; gap: 5px; }
+.modal-title { font-size: 24px; font-weight: 700; }
+.modal-year { font-size: 16px; color: var(--text-muted); }
+
+/* ALLINEAMENTO RIGHE METADATI PROTETTO (FIX PERFETTO) */
+.modal-meta-rows { display: flex; flex-direction: column; gap: 12px; }
+.meta-row { display: flex; flex-wrap: wrap; align-items: flex-start; gap: 8px; padding-left: 80px; position: relative; }
+.meta-row strong { position: absolute; left: 0; top: 2px; width: 80px; color: var(--accent); font-size: 14px; }
+.tag { background-color: var(--border-color); padding: 4px 10px; border-radius: 6px; font-size: 12px; color: var(--text-main); }
+
+/* Il contenitore generale di tutte le stagioni */
+.multi-progress-container {
+    display: flex;
+    flex-direction: column;
+    gap: 12px; /* Spazio tra una stagione e l'altra */
+    margin: 10px 0;
+}
+
+/* Il box della singola stagione */
+.season-progress-box {
+    background-color: var(--bg-color);
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid var(--border-color);
+}
+
+.progress-text-row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 13px;
+    margin-bottom: 6px;
+}
+
+.progress-text-row strong {
+    color: var(--accent);
+}
+
+.progress-bar-bg {
+    background-color: var(--border-color);
+    width: 100%;
+    height: 6px; /* Leggermente più sottile visto che ce ne sono di più */
+    border-radius: 3px;
+    overflow: hidden;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    width: 0%;
+    transition: width 0.4s ease;
+}

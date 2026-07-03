@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="it" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Archivio Serie TV</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📺</text></svg>">
+    <!-- CSS -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/mobile.css">
+</head>
+<body>
+
+    <header>
+        <div class="header-left">
+            <h1 id="ui-title">📺 My Series</h1>
+            <p id="ui-subtitle">Archivio serie TV personale</p>
+        </div>
+        
+        <div class="controls-container">
+            <!-- Tasti Lingua e Tema -->
+            <div class="toggles">
+                <button onclick="toggleLang()" id="lang-btn">🌐 ENG</button>
+                <button onclick="toggleTheme()" id="theme-btn">☀️</button>
+            </div>
+            
+            <!-- Filtri Aggiornati con i 4 Stati -->
+            <div class="filter-container">
+                <button class="filter-btn active" onclick="filterSeries('all')" id="btn-all">Tutte</button>
+                <button class="filter-btn" onclick="filterSeries('watchlist')" id="btn-watchlist">Da Vedere</button>
+                <button class="filter-btn" onclick="filterSeries('ongoing')" id="btn-ongoing">In Corso</button>
+                <button class="filter-btn" onclick="filterSeries('watched')" id="btn-watched">Completate</button>
+                <button class="filter-btn" onclick="filterSeries('stopped')" id="btn-stopped">Interrotte</button>
+            </div>
+
+            <!-- Barra di Ricerca e Ordinamento -->
+            <div class="search-sort-container">
+                <input type="text" id="search-input" placeholder="Cerca serie per titolo..." oninput="handleSearch(event)">
+                <select id="sort-select" onchange="handleSort(event)">
+                    <option value="default" id="opt-default">Ordine di Aggiunta</option>
+                    <option value="alpha" id="opt-alpha">Alfabetico (A-Z)</option>
+                    <option value="alpha-desc" id="opt-alpha-desc">Alfabetico (Z-A)</option>
+                    <option value="date-desc" id="opt-date-desc">Più recenti</option>
+                    <option value="date-asc" id="opt-date-asc">Più datati</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <main class="movies-grid" id="seriesGrid"></main>
+
+    <!-- Modale Dettaglio Serie TV -->
+    <div class="modal" id="seriesModal" onclick="closeModal(event)">
+        <div class="modal-content" onclick="event.stopPropagation()">
+            <span class="close-btn" onclick="closeModal(event)">&times;</span>
+            <div class="modal-body">
+                <div class="modal-left">
+                    <img src="" alt="Poster" class="modal-poster" id="modalPoster">
+                </div>
+                <div class="modal-details">
+                    <div class="modal-title-row">
+                        <h2 class="modal-title" id="modalTitle">Titolo</h2>
+                        <span class="modal-year" id="modalYear"></span>
+                    </div>
+                    <div id="modalRating" class="stars"></div>
+                    
+                    <div class="modal-meta-rows">
+                        <div class="meta-row" id="row-genres"></div>
+                        <div class="meta-row" id="row-director"></div>
+                        <div class="meta-row" id="row-cast"></div>
+                    </div>
+
+                   <!-- Contenitore dinamico per le barre delle singole stagioni -->
+                    <div id="modalProgressContainer" class="multi-progress-container"></div>
+
+                    <div class="comment-box" id="modalCommentContainer">
+                        <h4 id="ui-note">Nota Personale</h4>
+                        <p id="modalComment"></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- JS -->
+    <script src="js/script.js"></script>
+</body>
+</html>
