@@ -115,14 +115,39 @@ function renderGrid() {
         });
     }
 
+    function updateCounters(dataset) {
+        // Conta gli elementi basandosi sul dataset attualmente filtrato dalla ricerca testuale
+        const all = dataset.length;
+        const watchlist = dataset.filter(s => s.status === 'watchlist').length;
+        const ongoing = dataset.filter(s => s.status === 'ongoing').length;
+        const watched = dataset.filter(s => s.status === 'watched').length;
+        const stopped = dataset.filter(s => s.status === 'stopped').length;
+
+        // Inserisce i numeri tra parentesi nei bottoni
+        document.getElementById('count-all').innerText = all ? `(${all})` : '(0)';
+        document.getElementById('count-watchlist').innerText = watchlist ? `(${watchlist})` : '(0)';
+        if(document.getElementById('count-ongoing')) document.getElementById('count-ongoing').innerText = ongoing ? `(${ongoing})` : '(0)';
+        document.getElementById('count-watched').innerText = watched ? `(${watched})` : '(0)';
+        if(document.getElementById('count-stopped')) document.getElementById('count-stopped').innerText = stopped ? `(${stopped})` : '(0)';
+    }
+
     if (currentSort === 'alpha') {
         filtered.sort((a, b) => (a.title[currentLang] || a.title['it']).localeCompare(b.title[currentLang] || b.title['it']));
     } else if (currentSort === 'alpha-desc') {
         filtered.sort((a, b) => (b.title[currentLang] || b.title['it']).localeCompare(a.title[currentLang] || a.title['it']));
     } else if (currentSort === 'date-desc') {
-        filtered.sort((a, b) => b.year - a.year);
+        filtered.sort((a, b) => {
+            // Estrae solo i primi 4 caratteri (es. da "2008-2013" prende 2008) e li trasforma in numero intero
+            const yearA = parseInt(a.year.toString().substring(0, 4)) || 0;
+            const yearB = parseInt(b.year.toString().substring(0, 4)) || 0;
+            return yearB - yearA; // Dal più recente al più datato
+        });
     } else if (currentSort === 'date-asc') {
-        filtered.sort((a, b) => a.year - b.year);
+        filtered.sort((a, b) => {
+            const yearA = parseInt(a.year.toString().substring(0, 4)) || 0;
+            const yearB = parseInt(b.year.toString().substring(0, 4)) || 0;
+            return yearA - yearB; // Dal più datato al più recente
+        });
     } else if (currentSort === 'default') {
         filtered.sort((a, b) => a.originalIndex - b.originalIndex);
     }
