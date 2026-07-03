@@ -68,11 +68,14 @@ function updateUI() {
     const t = i18n[currentLang];
     document.getElementById('ui-title').innerText = t.title;
     document.getElementById('ui-subtitle').innerText = t.subtitle;
-    document.getElementById('btn-all').innerText = t.all;
-    document.getElementById('btn-watchlist').innerText = t.watchlist;
-    document.getElementById('btn-ongoing').innerText = t.ongoing;
-    document.getElementById('btn-watched').innerText = t.watched;
-    document.getElementById('btn-stopped').innerText = t.stopped;
+    
+    // 🔥 MODIFICATO: Ora punta a txt- invece di btn- per non cancellare i counter!
+    if (document.getElementById('txt-all')) document.getElementById('txt-all').innerText = t.all;
+    if (document.getElementById('txt-watchlist')) document.getElementById('txt-watchlist').innerText = t.watchlist;
+    if (document.getElementById('txt-ongoing')) document.getElementById('txt-ongoing').innerText = t.ongoing;
+    if (document.getElementById('txt-watched')) document.getElementById('txt-watched').innerText = t.watched;
+    if (document.getElementById('txt-stopped')) document.getElementById('txt-stopped').innerText = t.stopped;
+    
     document.getElementById('ui-note').innerText = t.note;
     document.getElementById('lang-btn').innerText = t.btnLang;
     
@@ -96,11 +99,53 @@ function getStarsHTML(rating) {
     return '⭐'.repeat(rating);
 }
 
+
+function updateCounters(searchQuery, currentLang) {
+    const t = i18n[currentLang];
+    
+    // Partiamo SEMPRE dal dataset totale e pulito ad ogni singolo calcolo!
+    let baseDataset = mySeriesDataset; 
+
+    // Applichiamo il filtro della barra di ricerca se l'utente sta digitando
+    if (searchQuery.trim() !== '') {
+        baseDataset = baseDataset.filter(s => {
+            const displayTitle = s.title[currentLang] || s.title['it'];
+            return displayTitle.toLowerCase().includes(searchQuery);
+        });
+    }
+
+    // Contiamo i totali reali basandoci solo sulla ricerca testuale
+    const all = baseDataset.length;
+    const watchlist = baseDataset.filter(s => s.status === 'watchlist' || s.status === 'da-vedere').length;
+    const ongoing = baseDataset.filter(s => s.status === 'ongoing').length;
+    const watched = baseDataset.filter(s => s.status === 'watched' || s.status === 'visto').length;
+    const stopped = baseDataset.filter(s => s.status === 'stopped').length;
+
+    // Aggiorniamo l'HTML in sicurezza
+    const elAll = document.getElementById('count-all');
+    if (elAll) elAll.innerText = all ? `(${all})` : '(0)';
+
+    const elWatchlist = document.getElementById('count-watchlist');
+    if (elWatchlist) elWatchlist.innerText = watchlist ? `(${watchlist})` : '(0)';
+
+    const elOngoing = document.getElementById('count-ongoing');
+    if (elOngoing) elOngoing.innerText = ongoing ? `(${ongoing})` : '(0)';
+
+    const elWatched = document.getElementById('count-watched');
+    if (elWatched) elWatched.innerText = watched ? `(${watched})` : '(0)';
+
+    const elStopped = document.getElementById('count-stopped');
+    if (elStopped) elStopped.innerText = stopped ? `(${stopped})` : '(0)';
+}
+
+
 // 4. RENDERING GRIGLIA PRINCIPALE
 function renderGrid() {
     const grid = document.getElementById('seriesGrid');
     grid.innerHTML = '';
     const t = i18n[currentLang];
+
+    updateCounters(searchQuery, currentLang);
 
     let filtered = mySeriesDataset.map((s, i) => ({ ...s, originalIndex: i }));
 
@@ -115,20 +160,9 @@ function renderGrid() {
         });
     }
 
-    function updateCounters(dataset) {
-        // Conta gli elementi basandosi sul dataset attualmente filtrato dalla ricerca testuale
-        const all = dataset.length;
-        const watchlist = dataset.filter(s => s.status === 'watchlist').length;
-        const ongoing = dataset.filter(s => s.status === 'ongoing').length;
-        const watched = dataset.filter(s => s.status === 'watched').length;
-        const stopped = dataset.filter(s => s.status === 'stopped').length;
 
-        // Inserisce i numeri tra parentesi nei bottoni
-        document.getElementById('count-all').innerText = all ? `(${all})` : '(0)';
-        document.getElementById('count-watchlist').innerText = watchlist ? `(${watchlist})` : '(0)';
-        if(document.getElementById('count-ongoing')) document.getElementById('count-ongoing').innerText = ongoing ? `(${ongoing})` : '(0)';
-        document.getElementById('count-watched').innerText = watched ? `(${watched})` : '(0)';
-        if(document.getElementById('count-stopped')) document.getElementById('count-stopped').innerText = stopped ? `(${stopped})` : '(0)';
+    if (currentFilter !== 'all') {
+        filtered = filtered.filter(s => s.status === currentFilter);
     }
 
     if (currentSort === 'alpha') {
