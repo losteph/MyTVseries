@@ -24,15 +24,14 @@
                 <button onclick="toggleTheme()" id="theme-btn">☀️</button>
             </div>
             
-            <!-- Filtri Aggiornati con i 4 Stati -->
+            <!-- Sezione Filtri con Counter Interni per le Serie TV -->
             <div class="filter-container">
-                <button class="filter-btn active" onclick="filterSeries('all')" id="btn-all">Tutte</button>
-                <button class="filter-btn" onclick="filterSeries('watchlist')" id="btn-watchlist">Da Vedere</button>
-                <button class="filter-btn" onclick="filterSeries('ongoing')" id="btn-ongoing">In Corso</button>
-                <button class="filter-btn" onclick="filterSeries('watched')" id="btn-watched">Completate</button>
-                <button class="filter-btn" onclick="filterSeries('stopped')" id="btn-stopped">Interrotte</button>
+                <button class="filter-btn active" onclick="filterSeries('all')" id="btn-all">Tutte <span id="count-all"></span></button>
+                <button class="filter-btn" onclick="filterSeries('watchlist')" id="btn-watchlist">Da Vedere <span id="count-watchlist"></span></button>
+                <button class="filter-btn" onclick="filterSeries('ongoing')" id="btn-ongoing">In Corso <span id="count-ongoing"></span></button>
+                <button class="filter-btn" onclick="filterSeries('watched')" id="btn-watched">Completate <span id="count-watched"></span></button>
+                <button class="filter-btn" onclick="filterSeries('stopped')" id="btn-stopped">Interrotte <span id="count-stopped"></span></button>
             </div>
-
             <!-- Barra di Ricerca e Ordinamento -->
             <div class="search-sort-container">
                 <input type="text" id="search-input" placeholder="Cerca serie per titolo..." oninput="handleSearch(event)">
