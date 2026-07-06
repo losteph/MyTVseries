@@ -33,7 +33,7 @@ MySeries/
 ├── data/
 │   └── series.json     # Il database locale contenente la tua collezione
 └── img/
-    └── ...             # Le copertine delle serie tv (.jpg)
+    └── ...             # Le copertine delle serie tv (.jpg o .webp)
 ```
 
 ## 📊 Struttura del Database e Stati (`series.json`)
