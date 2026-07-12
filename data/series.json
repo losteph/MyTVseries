@@ -4,16 +4,16 @@
       "it": "Man Vs Bee",
       "en": "Man Vs Bee"
     },
-    "year": "2025",
+    "year": "2022",
     "status": "watched",
-    "rating": 5,
-    "local_poster": "img/man_vs_bee.webp",
-    "director": "N/D",
+    "rating": 4,
+    "local_poster": "img/man_vs_bee.jpg",
+    "director": "William Davies",
     "genres": [
-      "Comedy"
+      "Comedy", "Family", "Slapstick", "Farce"
     ],
     "cast": [
-      "Mr Bean"
+      "Rowan Atkinson"
     ],
     "comment": {
       "it": "",
@@ -23,22 +23,28 @@
       { "season": 1, "watched_episodes": 9,  "total_episodes": 9 }
     ]
   },
-  {
-    "title": { "it": "Breaking Bad", "en": "Breaking Bad" },
-    "year": 2008,
+    {
+    "title": {
+      "it": "Man Vs Baby",
+      "en": "Man Vs Baby"
+    },
+    "year": "2025",
     "status": "watchlist",
     "rating": 0,
-    "local_poster": "img/breaking_bad.webp",
-    "director": "Vince Gilligan",
-    "genres": ["Drama", "Crime"],
-    "cast": ["Bryan Cranston", "Aaron Paul"],
-    "comment": { "it": "", "en": "" },
+    "local_poster": "img/man_vs_baby.jpg",
+    "director": "William Davies",
+    "genres": [
+      "Comedy", "Family", "Slapstick", "Farce", "Holiday"
+    ],
+    "cast": [
+      "Rowan Atkinson"
+    ],
+    "comment": {
+      "it": "",
+      "en": ""
+    },
     "progress": [
-      { "season": 1, "watched_episodes": 7, "total_episodes": 7 },
-      { "season": 2, "watched_episodes": 13, "total_episodes": 13 },
-      { "season": 3, "watched_episodes": 13, "total_episodes": 13 },
-      { "season": 4, "watched_episodes": 13, "total_episodes": 13 },
-      { "season": 5, "watched_episodes": 16, "total_episodes": 16 }
+      { "season": 1, "watched_episodes": 0,  "total_episodes": 4 }
     ]
   },
   {
@@ -102,9 +108,9 @@
       "en": "The Land Before Time"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
-    "local_poster": "img/the_land_before_time.webp",
+    "local_poster": "img/land_before_time.webp",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -119,7 +125,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 26,
+        "watched_episodes": 20,
         "total_episodes": 26
       }
     ]
@@ -225,7 +231,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 21,
+        "watched_episodes": 1,
         "total_episodes": 21
       },
       {
@@ -251,7 +257,7 @@
       "en": "Scooby-Doo, Where Are You!"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 3,
     "local_poster": "img/scooby-doo,_where_are_you!.webp",
     "director": "N/D",
@@ -273,12 +279,12 @@
       },
       {
         "season": 2,
-        "watched_episodes": 8,
+        "watched_episodes": 7,
         "total_episodes": 8
       },
       {
         "season": 3,
-        "watched_episodes": 16,
+        "watched_episodes": 0,
         "total_episodes": 16
       }
     ]
@@ -497,7 +503,7 @@
       "en": "lol:-)"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/lol:-).webp",
     "director": "N/D",
@@ -575,9 +581,9 @@
       "en": "The Penguins of Madagascar"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 4,
-    "local_poster": "img/the_penguins_of_madagascar.webp",
+    "local_poster": "img/penguins_madagascar.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -612,16 +618,16 @@
       "it": "Incastrati",
       "en": "Framed! A Sicilian Murder Mystery"
     },
-    "year": "2025",
+    "year": "2022-2023",
     "status": "watched",
-    "rating": 5,
-    "local_poster": "img/framed!_a_sicilian_murder_mystery.webp",
-    "director": "N/D",
+    "rating": 4,
+    "local_poster": "img/incastrati.jpg",
+    "director": "Leonardo Fasoli, Maddalena Ravagli",
     "genres": [
-      "N/D"
+      "Comedy", "Crime"
     ],
     "cast": [
-      "Ficarra", "Picone"
+      "Salvatore Ficarra", "Valentino Picone"
     ],
     "comment": {
       "it": "",
@@ -696,7 +702,7 @@
       },
       {
         "season": 2,
-        "watched_episodes": 13,
+        "watched_episodes": 0,
         "total_episodes": 13
       },
       {
@@ -714,7 +720,7 @@
     "year": "2025",
     "status": "stopped",
     "rating": 0,
-    "local_poster": "img/the_new_adventures_of_winnie_the_pooh.webp",
+    "local_poster": "img/winnie_the_pooh.webp",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -734,7 +740,7 @@
       },
       {
         "season": 2,
-        "watched_episodes": 18,
+        "watched_episodes": 1,
         "total_episodes": 18
       },
       {
@@ -820,16 +826,16 @@
       "it": "Baymax!",
       "en": "Baymax!"
     },
-    "year": "2025",
+    "year": "2022",
     "status": "watched",
     "rating": 3,
-    "local_poster": "img/baymax.webp",
-    "director": "N/D",
+    "local_poster": "img/baymax.jpg",
+    "director": "Don Hall",
     "genres": [
-      "N/D"
+      "Comedy", "Animation", "Action", "Sci-Fi", "Family", "Superhero", "Adventure"
     ],
     "cast": [
-      "N/D"
+      "Baymax", "Hiro Hamada", "Aunt Cass"
     ],
     "comment": {
       "it": "",
@@ -849,7 +855,7 @@
       "en": "A Patch by Lundini"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/pezza_lundini.webp",
     "director": "N/D",
@@ -887,7 +893,7 @@
       "en": "Victorious"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/victorious.webp",
     "director": "N/D",
@@ -914,12 +920,12 @@
       },
       {
         "season": 3,
-        "watched_episodes": 12,
+        "watched_episodes": 0,
         "total_episodes": 12
       },
       {
         "season": 4,
-        "watched_episodes": 13,
+        "watched_episodes": 0,
         "total_episodes": 13
       }
     ]
@@ -983,7 +989,7 @@
       "en": "Scooby-Doo! Mystery Incorporated"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/scooby-doo!_mystery_incorporated.webp",
     "director": "N/D",
@@ -1012,66 +1018,13 @@
   },
   {
     "title": {
-      "it": "iCarly",
-      "en": "iCarly"
-    },
-    "year": "2025",
-    "status": "watched",
-    "rating": 0,
-    "local_poster": "img/icarly.webp",
-    "director": "N/D",
-    "genres": [
-      "N/D"
-    ],
-    "cast": [
-      "N/D"
-    ],
-    "comment": {
-      "it": "",
-      "en": ""
-    },
-    "progress": [
-      {
-        "season": 1,
-        "watched_episodes": 25,
-        "total_episodes": 25
-      },
-      {
-        "season": 2,
-        "watched_episodes": 25,
-        "total_episodes": 25
-      },
-      {
-        "season": 3,
-        "watched_episodes": 20,
-        "total_episodes": 20
-      },
-      {
-        "season": 4,
-        "watched_episodes": 13,
-        "total_episodes": 13
-      },
-      {
-        "season": 5,
-        "watched_episodes": 11,
-        "total_episodes": 11
-      },
-      {
-        "season": 6,
-        "watched_episodes": 15,
-        "total_episodes": 15
-      }
-    ]
-  },
-  {
-    "title": {
       "it": "Key & Peele",
       "en": "Key & Peele"
     },
     "year": "2025",
     "status": "watched",
-    "rating": 5,
-    "local_poster": "img/key_&_peele.webp",
+    "rating": 4,
+    "local_poster": "img/key_peele.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -1119,7 +1072,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 0,
-    "local_poster": "img/death_note.webp",
+    "local_poster": "img/death_note.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -1203,7 +1156,7 @@
       "en": "Pink Panther and Pals"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/pink_panther_and_pals.webp",
     "director": "N/D",
@@ -1233,7 +1186,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 5,
-    "local_poster": "img/daredevil.webp",
+    "local_poster": "img/daredevil.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -1268,16 +1221,16 @@
       "it": "Cowboy Bebop",
       "en": "Cowboy Bebop"
     },
-    "year": "2025",
+    "year": "1998-1999",
     "status": "watched",
     "rating": 5,
     "local_poster": "img/cowboy_bebop.webp",
-    "director": "N/D",
+    "director": "Shinichirō Watanabe, Hajime Yatate",
     "genres": [
-      "N/D"
+      "Anime", "Action", "Adventure", "Sci-Fi", "Drama"
     ],
     "cast": [
-      "N/D"
+      "Spike Spiegel", "Jet Black", "Faye Valentine", "Edward", "Ein"
     ],
     "comment": {
       "it": "",
@@ -1297,7 +1250,7 @@
       "en": "LazyTown"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/lazytown.webp",
     "director": "N/D",
@@ -1319,17 +1272,17 @@
       },
       {
         "season": 2,
-        "watched_episodes": 18,
+        "watched_episodes": 0,
         "total_episodes": 18
       },
       {
         "season": 3,
-        "watched_episodes": 13,
+        "watched_episodes": 0,
         "total_episodes": 13
       },
       {
         "season": 4,
-        "watched_episodes": 13,
+        "watched_episodes": 0,
         "total_episodes": 13
       }
     ]
@@ -1339,16 +1292,16 @@
       "it": "The Midnight Gospel",
       "en": "The Midnight Gospel"
     },
-    "year": "2025",
+    "year": "2020",
     "status": "watched",
     "rating": 5,
     "local_poster": "img/midnight_gospel.webp",
     "director": "Pendleton Ward",
     "genres": [
-      "N/D"
+      "Animation", "Comedy", "Sci-Fi", "Fantasy", "Adventure"
     ],
     "cast": [
-      "N/D"
+      "Clancy Gilroy (Duncan Trussell)"
     ],
     "comment": {
       "it": "",
@@ -1368,7 +1321,7 @@
       "en": "Pingu"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/pingu.webp",
     "director": "N/D",
@@ -1390,27 +1343,27 @@
       },
       {
         "season": 2,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 3,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 4,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 5,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 6,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       }
     ]
@@ -1421,7 +1374,7 @@
       "en": "Geronimo Stilton"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/geronimo_stilton.webp",
     "director": "N/D",
@@ -1443,12 +1396,12 @@
       },
       {
         "season": 2,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 3,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       }
     ]
@@ -1460,8 +1413,8 @@
     },
     "year": "2025",
     "status": "watched",
-    "rating": 0,
-    "local_poster": "img/the_defenders.webp",
+    "rating": 4,
+    "local_poster": "img/defenders.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -1522,7 +1475,7 @@
     "year": "2025",
     "status": "ongoing",
     "rating": 0,
-    "local_poster": "img/daredevil_born_again.webp",
+    "local_poster": "img/daredevil_born_again.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -1749,16 +1702,16 @@
       "it": "Ranking of Kings",
       "en": "Ranking of Kings"
     },
-    "year": "2025",
+    "year": "2021",
     "status": "watched",
     "rating": 3,
     "local_poster": "img/ranking_kings.webp",
-    "director": "N/D",
+    "director": "Sosuke Toka",
     "genres": [
-      "N/D"
+      "Anime", "Action", "Adventure", "Comedy", "Fantasy", "Drama"
     ],
     "cast": [
-      "N/D"
+      "Bojji", "Kage"
     ],
     "comment": {
       "it": "",
@@ -1795,7 +1748,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 26,
+        "watched_episodes": 5,
         "total_episodes": 26
       },
       {
@@ -1972,7 +1925,7 @@
       "en": "The Little Prince"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/the_little_prince.webp",
     "director": "N/D",
@@ -1994,12 +1947,12 @@
       },
       {
         "season": 2,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 3,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       }
     ]
@@ -2012,7 +1965,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 5,
-    "local_poster": "img/fionna_and_cake.webp",
+    "local_poster": "img/fionna_cake.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -2102,41 +2055,13 @@
   },
   {
     "title": {
-      "it": "Moon Knight",
-      "en": "Moon Knight"
-    },
-    "year": "2025",
-    "status": "watched",
-    "rating": 0,
-    "local_poster": "img/moon_knight.webp",
-    "director": "N/D",
-    "genres": [
-      "N/D"
-    ],
-    "cast": [
-      "N/D"
-    ],
-    "comment": {
-      "it": "",
-      "en": ""
-    },
-    "progress": [
-      {
-        "season": 1,
-        "watched_episodes": 6,
-        "total_episodes": 6
-      }
-    ]
-  },
-  {
-    "title": {
       "it": "Sono Lillo",
       "en": "Sono Lillo"
     },
     "year": "2025",
     "status": "watched",
-    "rating": 5,
-    "local_poster": "img/sono_lillo.webp",
+    "rating": 4,
+    "local_poster": "img/sono_lillo.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -2204,16 +2129,16 @@
       "it": "Ben 10",
       "en": "Ben 10"
     },
-    "year": "2025",
-    "status": "watched",
-    "rating": 4,
-    "local_poster": "img/ben_10.webp",
-    "director": "N/D",
+    "year": "2005-2008",
+    "status": "stopped",
+    "rating": 3,
+    "local_poster": "img/ben_10.jpg",
+    "director": "Man of Action, Joe Casey, Joe Kelly",
     "genres": [
-      "N/D"
+      "Action", "Animation", "Sci-Fi", "Superhero", "Adventure"
     ],
     "cast": [
-      "N/D"
+      "Ben Tennyson", "Grandpa Max Tennyson", "Gwen Tennyson"
     ],
     "comment": {
       "it": "",
@@ -2237,7 +2162,7 @@
       },
       {
         "season": 4,
-        "watched_episodes": 10,
+        "watched_episodes": 0,
         "total_episodes": 10
       }
     ]
@@ -2248,7 +2173,7 @@
       "en": "Marvel's Iron Fist"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 4,
     "local_poster": "img/iron_fist.webp",
     "director": "N/D",
@@ -2280,16 +2205,33 @@
       "it": "Boris",
       "en": "Boris"
     },
-    "year": "2025",
+    "year": "2007-2022",
     "status": "ongoing",
     "rating": 5,
     "local_poster": "img/boris.webp",
-    "director": "N/D",
+    "director": "Luca Manzi, Carlo Mazzotta",
     "genres": [
-      "N/D"
+      "Comedy"
     ],
     "cast": [
-      "N/D"
+      "Francesco Pannofino (Renè Ferretti)",
+      "Caterina Guzzanti (Arianna Dell'Arti)",
+      "Alessandro Tiberi",
+      "Luca Amorosino (Alfredo)",
+      "Antonio Bruschetta (Duccio Patanè)",
+      "Paolo Calabresi (Augusto Biascica)",
+      "Antonio Catania (Diego Lopez)",
+      "Pietro Sermonti (Stanis La Rochelle)",
+      "Valerio Aprea (Sceneggiatore 1)",
+      "Massimo De Lorenzo (Sceneggiatore 2)",
+      "Andrea Sartoretti (Sceneggiatore 3)",
+      "Carolina Crescentini (Corinna Negri)",
+      "Corrado Guzzanti (Mariano Giusti)",
+      "Roberta Fiorentini (Itala)",
+      "Alberto Di Stasio (Sergio)",
+      "Carlo Luca De Ruggieri (Lorenzo)",
+      "Karin Proia",
+      "Angelica Leo (Fabiana Hassler)"
     ],
     "comment": {
       "it": "",
@@ -2324,7 +2266,7 @@
       "en": "Courage the Cowardly Dog"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/courage_the_cowardly_dog.webp",
     "director": "N/D",
@@ -2346,17 +2288,17 @@
       },
       {
         "season": 2,
-        "watched_episodes": 25,
+        "watched_episodes": 0,
         "total_episodes": 25
       },
       {
         "season": 3,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 4,
-        "watched_episodes": 25,
+        "watched_episodes": 0,
         "total_episodes": 25
       }
     ]
@@ -2706,7 +2648,7 @@
       "en": "Inazuma Eleven"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/inazuma_eleven.webp",
     "director": "N/D",
@@ -2728,17 +2670,17 @@
       },
       {
         "season": 2,
-        "watched_episodes": 47,
+        "watched_episodes": 0,
         "total_episodes": 47
       },
       {
         "season": 3,
-        "watched_episodes": 51,
+        "watched_episodes": 0,
         "total_episodes": 51
       },
       {
         "season": 4,
-        "watched_episodes": 43,
+        "watched_episodes": 0,
         "total_episodes": 43
       }
     ]
@@ -2857,7 +2799,7 @@
       "en": "Takeshi's Castle"
     },
     "year": "2002",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/takeshi_castle.webp",
     "director": "N/D",
@@ -2874,17 +2816,17 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 40,
+        "watched_episodes": 0,
         "total_episodes": 40
       },
       {
         "season": 2,
-        "watched_episodes": 30,
+        "watched_episodes": 0,
         "total_episodes": 30
       },
       {
         "season": 3,
-        "watched_episodes": 30,
+        "watched_episodes": 0,
         "total_episodes": 30
       },
       {
@@ -2900,7 +2842,7 @@
       "en": "Sandokan"
     },
     "year": "1998",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/sandokan.webp",
     "director": "N/D",
@@ -2922,12 +2864,12 @@
       },
       {
         "season": 2,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
         "season": 3,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       }
     ]
@@ -2955,7 +2897,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 15,
+        "watched_episodes": 7,
         "total_episodes": 45
       },
       {
@@ -2973,7 +2915,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 4,
-    "local_poster": "img/lupin.webp",
+    "local_poster": "img/lupin.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -3004,7 +2946,7 @@
       "en": "Power Rangers Dino Force Brave"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/power_rangers_dino_force.webp",
     "director": "N/D",
@@ -3021,7 +2963,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 12,
+        "watched_episodes": 1,
         "total_episodes": 12
       }
     ]
@@ -3034,7 +2976,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 5,
-    "local_poster": "img/adventure_time_distant_lands.webp",
+    "local_poster": "img/Adventure_Time_Distant_Lands.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -3113,7 +3055,7 @@
       "en": "Minuscule"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/minuscule.webp",
     "director": "N/D",
@@ -3135,7 +3077,7 @@
       },
       {
         "season": 2,
-        "watched_episodes": 98,
+        "watched_episodes": 0,
         "total_episodes": 98
       }
     ]
@@ -3344,7 +3286,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 4,
-    "local_poster": "img/police_squad!.webp",
+    "local_poster": "img/police_squad.jpg",
     "director": "N/D",
     "genres": [
       "Comedy"
@@ -3388,7 +3330,7 @@
       {
         "season": 1,
         "watched_episodes": 13,
-        "total_episodes": 14
+        "total_episodes": 13
       },
       {
         "season": 2,
@@ -3557,9 +3499,9 @@
       "en": "The Office (US)"
     },
     "year": "2025",
-    "status": "stopped",
+    "status": "watched",
     "rating": 5,
-    "local_poster": "img/the_office.webp",
+    "local_poster": "img/the_office.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -3675,7 +3617,7 @@
     "year": "2016-2024",
     "status": "watched",
     "rating": 4,
-    "local_poster": "img/the_grand_tour.webp",
+    "local_poster": "img/grand_tour.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -3726,7 +3668,7 @@
       "en": "Sam & Cat"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/sam_&_cat.webp",
     "director": "N/D",
@@ -3743,7 +3685,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 36,
+        "watched_episodes": 1,
         "total_episodes": 36
       }
     ]
@@ -3754,7 +3696,7 @@
       "en": "Power Rangers: Mystic Force"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/power_rangers_mystic_force.webp",
     "director": "N/D",
@@ -3771,7 +3713,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 32,
+        "watched_episodes": 1,
         "total_episodes": 32
       }
     ]
@@ -3924,16 +3866,16 @@
       "it": "Youtube Money",
       "en": "Youtube Money"
     },
-    "year": "2025",
+    "year": "2014-2024",
     "status": "watched",
-    "rating": 3,
-    "local_poster": "img/youtube_money.webp",
-    "director": "N/D",
+    "rating": 4,
+    "local_poster": "img/youtube_money.jpg",
+    "director": "Mario Palladino, Nicola Palmieri",
     "genres": [
-      "N/D"
+      "Comedy"
     ],
     "cast": [
-      "N/D"
+      "Alessio (Mario Palladino)", "Paolo (Nicola Palmieri)", "Strafaigo90 (Emanuele Criasia)", "Alcide (Giuseppe Villani)", "Toyobi (Karim Musa)", "CiccioPlay89 (Mirko Alessandrini)"
     ],
     "comment": {
       "it": "",
@@ -4036,15 +3978,15 @@
       "en": "JoJo's Bizarre Adventure"
     },
     "year": "2012-Present",
-    "status": "watched",
+    "status": "ongoing",
     "rating": 5,
-    "local_poster": "img/jojo_bizarre_adventure.webp",
-    "director": "N/D",
+    "local_poster": "img/jojo_bizarre_adventure.jpg",
+    "director": "Hirohiko Araki",
     "genres": [
-      "N/D"
+      "Anime", "Action", "Comedy", "Horror", "Adventure", "Supernatural", "Fantasy", "Drama", "Sci-Fi"
     ],
     "cast": [
-      "N/D"
+      "Jonathan Joestar", "Dio Brando", "Roberti E.O. Speedwagon", "Will A. Zeppeli", "Erina Pendleton", "Joseph Joestar", "Lisa Lisa", "Caesar Zeppeli", "Rudol von Stroheim", "Wamuu", "Kars", "Esidisi", "Santana","Jotaro Kujo", "Muhammad Avdol", "Noriaki Kakyoin", "Jean Pierre Polnareff", "Iggy", "Josuke Higashikata", "Koichi Hirose", "Yoshikage Kira", "Okuyasu Nijimura", "Rohan Kishibe", "Giorno Giovanna", "Bruno Bucciarati", "Leone Abbacchio", "Guido Mista", "Narancia Ghirga", "Pannacotta Fugo", "Trish Una", "Diavolo", "Jolyne Cujoh", "Ermes Costello", "Foo FIghter", "Weather Report", "Narcisio Anasui", "Emporio", "Enrico Pucci", "Johnny Joestar", "Gyro Zeppeli", "Lucy Steel", "Funny Valentine", "Diego Brando"
     ],
     "comment": {
       "it": "",
@@ -4052,37 +3994,37 @@
     },
     "progress": [
       {
-        "season": 1,
+        "season": "Phantom Blood",
         "watched_episodes": 9,
         "total_episodes": 9
       },
       {
-        "season": 2,
+        "season": "Battle Tendency",
         "watched_episodes": 17,
         "total_episodes": 17
       },
       {
-        "season": 3,
+        "season": "Stardust Crusaders",
         "watched_episodes": 48,
         "total_episodes": 48
       },
       {
-        "season": 4,
+        "season": "Diamond is Umbreakable",
         "watched_episodes": 39,
         "total_episodes": 39
       },
       {
-        "season": 5,
+        "season": "Golden Wind",
         "watched_episodes": 39,
         "total_episodes": 39
       },
       {
-        "season": 6,
+        "season": "Stone Ocean",
         "watched_episodes": 38,
         "total_episodes": 38
       },
       {
-        "season": 7,
+        "season": "Steel Ball Run",
         "watched_episodes": 1,
         "total_episodes": 1
       }
@@ -4342,7 +4284,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 4,
-    "local_poster": "img/oddtaxi.webp",
+    "local_poster": "img/oddtaxi.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -4364,13 +4306,13 @@
   },
   {
     "title": {
-      "it": "Once Upon a Time... Life",
+      "it": "Siamo Fatti Così",
       "en": "Once Upon a Time... Life"
     },
     "year": "2025",
     "status": "watched",
     "rating": 0,
-    "local_poster": "img/once_upon_a_time..._life.webp",
+    "local_poster": "img/siamo_fatti_così.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -4413,7 +4355,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 13,
+        "watched_episodes": 1,
         "total_episodes": 13
       },
       {
@@ -4484,7 +4426,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 4,
-    "local_poster": "img/the_amazing_digital_circus.webp",
+    "local_poster": "img/amazing_digital_circus.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -4510,7 +4452,7 @@
       "en": "Barbapapa"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/barbapapa.webp",
     "director": "N/D",
@@ -4527,12 +4469,12 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 45,
+        "watched_episodes": 30,
         "total_episodes": 45
       },
       {
         "season": 2,
-        "watched_episodes": 55,
+        "watched_episodes": 0,
         "total_episodes": 55
       }
     ]
@@ -4542,16 +4484,16 @@
       "it": "Over the Garden Wall",
       "en": "Over the Garden Wall"
     },
-    "year": "2025",
+    "year": "2014",
     "status": "watched",
-    "rating": 5,
-    "local_poster": "img/over_the_garden_wall.webp",
-    "director": "N/D",
+    "rating": 4,
+    "local_poster": "img/over_the_garden_wall.jpg",
+    "director": "Patrick McHale, Tom Herpich, Katie Krentz",
     "genres": [
-      "N/D"
+      "Fantasy", "Animation", "Horror", "Adventure", "Drama", "Family", "Comedy"
     ],
     "cast": [
-      "N/D"
+      "Writ", "Greg", "Beatrice", "The Beast"
     ],
     "comment": {
       "it": "",
@@ -4573,7 +4515,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 4,
-    "local_poster": "img/small_fish.webp",
+    "local_poster": "img/pesci_piccoli.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -4604,7 +4546,7 @@
       "en": "Tom and Jerry Tales"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/tom_and_jerry_tales.webp",
     "director": "N/D",
@@ -4626,7 +4568,7 @@
       },
       {
         "season": 2,
-        "watched_episodes": 39,
+        "watched_episodes": 0,
         "total_episodes": 39
       }
     ]
@@ -4697,12 +4639,12 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 26,
+        "watched_episodes": 1,
         "total_episodes": 26
       },
       {
         "season": 2,
-        "watched_episodes": 26,
+        "watched_episodes": 0,
         "total_episodes": 26
       },
       {
@@ -4832,8 +4774,8 @@
     },
     "year": "2025",
     "status": "watched",
-    "rating": 4,
-    "local_poster": "img/non_ci_resta_che_il_crimine.webp",
+    "rating": 0,
+    "local_poster": "img/non_ci_resta_crimine.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -4876,7 +4818,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 26,
+        "watched_episodes": 5,
         "total_episodes": 26
       },
       {
@@ -4898,41 +4840,13 @@
   },
   {
     "title": {
-      "it": "Scan2Go",
-      "en": "Scan2Go"
-    },
-    "year": "2025",
-    "status": "stopped",
-    "rating": 0,
-    "local_poster": "img/scan2go.webp",
-    "director": "N/D",
-    "genres": [
-      "N/D"
-    ],
-    "cast": [
-      "N/D"
-    ],
-    "comment": {
-      "it": "",
-      "en": ""
-    },
-    "progress": [
-      {
-        "season": 1,
-        "watched_episodes": 45,
-        "total_episodes": 52
-      }
-    ]
-  },
-  {
-    "title": {
       "it": "He-Man and the Masters of the Universe",
       "en": "He-Man and the Masters of the Universe"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
-    "local_poster": "img/he-man_and_the_masters_of_the_universe.webp",
+    "local_poster": "img/he-man.webp",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -4947,12 +4861,12 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 65,
+        "watched_episodes": 5,
         "total_episodes": 65
       },
       {
         "season": 2,
-        "watched_episodes": 65,
+        "watched_episodes": 0,
         "total_episodes": 65
       }
     ]
@@ -5012,13 +4926,13 @@
   },
   {
     "title": {
-      "it": "Cucciolotti",
+      "it": "Cuccioli",
       "en": "Pet Pals"
     },
     "year": "2003-2012",
-    "status": "watched",
+    "status": "stopped",
     "rating": 4,
-    "local_poster": "img/pet_pals.webp",
+    "local_poster": "img/cuccioli.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -5063,16 +4977,16 @@
       "it": "SAKAMOTO DAYS",
       "en": "SAKAMOTO DAYS"
     },
-    "year": "2025",
-    "status": "watched",
+    "year": "2025-Present",
+    "status": "ongoing",
     "rating": 5,
-    "local_poster": "img/sakamoto_days.webp",
-    "director": "N/D",
+    "local_poster": "img/sakamoto_days.jpg",
+    "director": "Yuto Suzuki",
     "genres": [
-      "N/D"
+      "Anime", "Action", "Comedy", "Spy", "Shonen"
     ],
     "cast": [
-      "N/D"
+      "Taro Sakamoto", "Shin Asakura", "Lu Xiaotang", "Heisuke Mashimo", "Yoichi Nagumo", "Uzuki (Slur)"
     ],
     "comment": {
       "it": "",
@@ -5097,9 +5011,9 @@
       "en": "Impractical Jokers"
     },
     "year": "2025",
-    "status": "stopped",
+    "status": "watched",
     "rating": 4,
-    "local_poster": "img/impractical_jokers.webp",
+    "local_poster": "img/impractical_jokers.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -5288,7 +5202,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 3,
-    "local_poster": "img/new_scooby-doo?.webp",
+    "local_poster": "img/scooby_doo_new.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -5324,7 +5238,7 @@
       "en": "The Daltons"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/the_daltons.webp",
     "director": "N/D",
@@ -5346,7 +5260,7 @@
       },
       {
         "season": 2,
-        "watched_episodes": 113,
+        "watched_episodes": 0,
         "total_episodes": 113
       }
     ]
@@ -5359,7 +5273,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 3,
-    "local_poster": "img/the_beatles:_get_back.webp",
+    "local_poster": "img/beatles_get_back.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -5384,16 +5298,16 @@
       "it": "Monster Allergy",
       "en": "Monster Allergy"
     },
-    "year": "2025",
+    "year": "2005-2009",
     "status": "watched",
-    "rating": 5,
-    "local_poster": "img/monster_allergy.webp",
-    "director": "N/D",
+    "rating": 4,
+    "local_poster": "img/monster_allergy.jpg",
+    "director": "Katja Centomo, Francesco Artibani, Alessandro Barbucci",
     "genres": [
-      "N/D"
+      "Action", "Adventure", "Animation", "Comedy", "Family", "Fantasy", "Sci-Fi"
     ],
     "cast": [
-      "N/D"
+      "Zick", "Elena", "Timothy", "Zob", "Bombo", "Magnacat"
     ],
     "comment": {
       "it": "",
@@ -5417,16 +5331,16 @@
       "it": "Mob Psycho 100",
       "en": "Mob Psycho 100"
     },
-    "year": "2025",
+    "year": "2016-2022",
     "status": "watched",
     "rating": 5,
-    "local_poster": "img/mob_psycho_100.webp",
-    "director": "N/D",
+    "local_poster": "img/mob_psycho_100.jpg",
+    "director": "ONE",
     "genres": [
-      "N/D"
+      "Anime", "Shōnen", "Drama", "Fantasy", "Action"
     ],
     "cast": [
-      "N/D"
+      "Mob (Shigeo Kageyama)", "Arataka Reigen", "Ritsu Kageyama", "Dimple (Ekubo)"
     ],
     "comment": {
       "it": "",
@@ -5459,12 +5373,12 @@
     "status": "stopped",
     "rating": 4,
     "local_poster": "img/one-punch_man.webp",
-    "director": "N/D",
+    "director": "ONE",
     "genres": [
-      "N/D"
+      "Comedy", "Superhero", "Fantasy", "Anime", "Fantasy"
     ],
     "cast": [
-      "N/D"
+      "Saitama"
     ],
     "comment": {
       "it": "",
@@ -5496,7 +5410,7 @@
     "year": "2025",
     "status": "watched",
     "rating": 5,
-    "local_poster": "img/arrow.webp",
+    "local_poster": "img/arrow.jpg",
     "director": "N/D",
     "genres": [
       "N/D"
@@ -5557,7 +5471,7 @@
       "en": "Kung Fu Panda: Legends of Awesomeness"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 4,
     "local_poster": "img/kung_fu_panda:_legends_of_awesomeness.webp",
     "director": "N/D",
@@ -5595,7 +5509,7 @@
       "en": "Mickey Mouse Clubhouse"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/mickey_mouse_clubhouse.webp",
     "director": "N/D",
@@ -5617,17 +5531,17 @@
       },
       {
         "season": 2,
-        "watched_episodes": 40,
+        "watched_episodes": 0,
         "total_episodes": 40
       },
       {
         "season": 3,
-        "watched_episodes": 35,
+        "watched_episodes": 0,
         "total_episodes": 35
       },
       {
         "season": 4,
-        "watched_episodes": 32,
+        "watched_episodes": 0,
         "total_episodes": 32
       }
     ]
@@ -5638,7 +5552,7 @@
       "en": "The Pink Panther Show"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/the_pink_panther_show.webp",
     "director": "N/D",
@@ -5671,7 +5585,7 @@
       "en": "Heidi"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 4,
     "local_poster": "img/heidi.webp",
     "director": "N/D",
@@ -5688,7 +5602,7 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 52,
+        "watched_episodes": 12,
         "total_episodes": 52
       }
     ]
@@ -5814,12 +5728,12 @@
     "progress": [
       {
         "season": 1,
-        "watched_episodes": 14,
+        "watched_episodes": 35,
         "total_episodes": 49
       },
       {
         "season": 2,
-        "watched_episodes": 46,
+        "watched_episodes": 0,
         "total_episodes": 46
       }
     ]
@@ -5829,16 +5743,16 @@
       "it": "Chainsaw Man",
       "en": "Chainsaw Man"
     },
-    "year": "2026",
-    "status": "watched",
-    "rating": 4,
-    "local_poster": "img/chainsaw_man.webp",
-    "director": "N/D",
+    "year": "2022-Present",
+    "status": "ongoing",
+    "rating": 3,
+    "local_poster": "img/chainsaw_man.jpg",
+    "director": "Tatsuki Fujimoto",
     "genres": [
-      "N/D"
+      "Anime", "Fantasy", "Comedy", "Horror", "Action", "Adult", "Shonen"
     ],
     "cast": [
-      "N/D"
+      "Pochita", "Denji", "Makima", "Power", "Himeno", "Aki", "Kishibe", "Kobeni"
     ],
     "comment": {
       "it": "",
@@ -5950,44 +5864,6 @@
   },
   {
     "title": {
-      "it": "Disenchantment",
-      "en": "Disenchantment"
-    },
-    "year": "2025",
-    "status": "watchlist",
-    "rating": 0,
-    "local_poster": "img/disenchantment.webp",
-    "director": "N/D",
-    "genres": [
-      "N/D"
-    ],
-    "cast": [
-      "N/D"
-    ],
-    "comment": {
-      "it": "",
-      "en": ""
-    },
-    "progress": [
-      {
-        "season": 1,
-        "watched_episodes": 0,
-        "total_episodes": 20
-      },
-      {
-        "season": 2,
-        "watched_episodes": 0,
-        "total_episodes": 20
-      },
-      {
-        "season": 3,
-        "watched_episodes": 0,
-        "total_episodes": 10
-      }
-    ]
-  },
-  {
-    "title": {
       "it": "Steven Universe",
       "en": "Steven Universe"
     },
@@ -6080,7 +5956,7 @@
       "en": "The Looney Tunes Show"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/the_looney_tunes_show.webp",
     "director": "N/D",
@@ -6113,7 +5989,7 @@
       "en": "Baby Looney Tunes"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/baby_looney_tunes.webp",
     "director": "N/D",
@@ -6146,7 +6022,7 @@
       "en": "Marvel's Luke Cage"
     },
     "year": "2025",
-    "status": "watched",
+    "status": "stopped",
     "rating": 0,
     "local_poster": "img/luke_cage.webp",
     "director": "N/D",
@@ -6176,17 +6052,17 @@
   {
     "title": { "it": "Avatar: The Last Airbender", "en": "Avatar: The Last Airbender" },
     "year": "2005-2008",
-    "status": "ongoing",
+    "status": "watched",
     "rating": 4,
     "local_poster": "img/avatar_airbender.webp",
-    "director": "Boh",
-    "genres": ["Action"],
-    "cast": ["Aang", "Katara", "Sokka", "Kuzo"],
+    "director": "Michael Dante DiMartino, Bryan Konietzko",
+    "genres": ["Action", "Animation", "Comedy", "Fantasy", "Superhero", "Adventure"],
+    "cast": ["Aang", "Katara", "Sokka", "Zuko", "Toph", "Mai", "Azula", "Uncle Iroh", "Suki", "Ty Lee"],
     "comment": { "it": "top", "en": "funny" },
     "progress": [
       { "season": 1, "watched_episodes": 20, "total_episodes": 20 },
       { "season": 2, "watched_episodes": 20, "total_episodes": 20 },
-      { "season": 3, "watched_episodes": 8, "total_episodes": 21 }
+      { "season": 3, "watched_episodes": 21, "total_episodes": 21 }
     ]
   }
 ]
